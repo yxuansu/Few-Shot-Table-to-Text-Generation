@@ -1,7 +1,7 @@
 # Few-Shot Table-to-Text Generation with Prototype Memory
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 
-## 1. Data and Pre-trained Models:
+## 1. Download Data and Pre-trained Models:
 ### (1) [Download Data](https://drive.google.com/file/d/10Q0s6bHP4bhzxurlgrT1XKQ9hzCpPylw/view?usp=sharing)
 > unzip the data.zip and replace it with the empty data folder
 ### (2) [Pre-trained Checkpoints](https://drive.google.com/file/d/1ip8muvfeI5IOFfOc6i-jRRz_BJZ5IsqN/view?usp=sharing)
@@ -22,3 +22,9 @@ Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 > ./generator/training/human/human-few-shot-k.sh
 ### (3) Inference of Few-Shot-k setting for humans dataset:
 > ./generator/inference/human/human-few-shot-k-inference.sh
+
+## 4. Citation
+If you find our paper and code useful, please kindly cite our paper:
+```yaml
+bibtex citation
+```
