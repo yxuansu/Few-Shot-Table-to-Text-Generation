@@ -1,2 +1,4 @@
-# Few-Shot-Table-to-Text-Generation
-This project contains code and data for our paper [Few-Shot Table-to-Text Generation with Prototype Memory]
+# Few-Shot Table-to-Text Generation with Prototype Memory
+Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
+
+## Introduction
