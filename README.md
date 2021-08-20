@@ -1,4 +1,6 @@
 # Few-Shot Table-to-Text Generation with Prototype Memory
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 
-## Introduction
+## 1. Prototype Selector
+### (1) Training: 
+
