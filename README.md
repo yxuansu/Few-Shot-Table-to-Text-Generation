@@ -14,3 +14,11 @@ Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 > ./prototype_selector/sh_folder/training/human/human-few-shot-k.sh
 ### (3) Inference of Few-Shot-k setting for humans dataset:
 > ./prototype_selector/sh_folder/inference/human/inference_human-few-shot-k.sh
+
+## 3. Generator
+### (1) Enviornment Installation: 
+> pip install -r generator_requirements.txt
+### (2) Training of Few-Shot-k setting for humans dataset: 
+> ./generator/training/human/human-few-shot-k.sh
+### (3) Inference of Few-Shot-k setting for humans dataset:
+> ./generator/inference/human/human-few-shot-k-inference.sh
