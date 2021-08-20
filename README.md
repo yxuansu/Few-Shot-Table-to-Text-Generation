@@ -2,11 +2,11 @@
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 
 ## 1. Download Data and Pre-trained Models:
-### (1) Download Data[Link](https://drive.google.com/file/d/10Q0s6bHP4bhzxurlgrT1XKQ9hzCpPylw/view?usp=sharing)
+### (1) Download Data [link](https://drive.google.com/file/d/10Q0s6bHP4bhzxurlgrT1XKQ9hzCpPylw/view?usp=sharing)
 ```yaml
 unzip the data.zip and replace it with the empty data folder
 ```
-### (2) Pre-trained Checkpoints[Link](https://drive.google.com/file/d/1ip8muvfeI5IOFfOc6i-jRRz_BJZ5IsqN/view?usp=sharing)
+### (2) Pre-trained Checkpoints [link](https://drive.google.com/file/d/1ip8muvfeI5IOFfOc6i-jRRz_BJZ5IsqN/view?usp=sharing)
 ```yaml
 unzip the checkpoints.zip and replace it with empty checkpoints folder
 ```
