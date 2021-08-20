@@ -12,3 +12,5 @@ Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 > pip install -r prototype_selector_requirements.txt
 ### (2) Training of Few-Shot-k setting for humans dataset: 
 > ./prototype_selector/sh_folder/training/human/human-few-shot-k.sh
+### (3) Inference of Few-Shot-k setting for humans dataset:
+> ./prototype_selector/sh_folder/inference/human/inference_human-few-shot-k.sh
