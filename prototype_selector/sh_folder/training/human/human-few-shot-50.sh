@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=2 python3 ../../../train.py\
+    --model_name bert-base-uncased\
+    --dataset_name human\
+    --train_data_num 50\
+    --dataset_prefix ../../../../data/human\
+    --loss_margin 0.05\
+    --batch_size 4\
+    --total_steps 1000\
+    --update_steps 1\
+    --lr 2e-5\
+    --print_every 5\
+    --eval_every 20\
+    --test_output_dir ../../../ckpt/human/few-shot-50/
