@@ -18,11 +18,15 @@ pip install -r prototype_selector_requirements.txt
 ```
 ### (2) Training of Few-Shot-k setting for humans dataset: 
 ```yaml
-./prototype_selector/sh_folder/training/human/human-few-shot-k.sh
+cd ./prototype_selector/sh_folder/training/human/
+chmod +x ./human-few-shot-k.sh
+./human-few-shot-k.sh
 ```
 ### (3) Inference of Few-Shot-k setting for humans dataset:
 ```yaml
-./prototype_selector/sh_folder/inference/human/inference_human-few-shot-k.sh
+cd ./prototype_selector/sh_folder/inference/human/
+chmod +x ./inference_human-few-shot-k.sh
+./inference_human-few-shot-k.sh
 ```
 
 ## 3. Generator
@@ -32,11 +36,15 @@ pip install -r generator_requirements.txt
 ```
 ### (2) Training of Few-Shot-k setting for humans dataset: 
 ```yaml
-./generator/training/human/human-few-shot-k.sh
+cd ./generator/training/human/
+chmod +x ./human-few-shot-k.sh
+./human-few-shot-k.sh
 ```
 ### (3) Inference of Few-Shot-k setting for humans dataset:
 ```yaml
-./generator/inference/human/human-few-shot-k-inference.sh
+cd ./generator/inference/human/
+chmod +x ./human-few-shot-k-inference.sh
+./human-few-shot-k-inference.sh
 ```
 
 ## 4. Citation
