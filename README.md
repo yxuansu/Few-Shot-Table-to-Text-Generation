@@ -1,6 +1,8 @@
 # Few-Shot Table-to-Text Generation with Prototype Memory
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 
+This repo contains the related resource to our paper [Few-Shot Table-to-Text Generation with Prototype Memory]
+
 ## 1. Download Data and Pre-trained Models:
 ### (1) Download Data [link](https://drive.google.com/file/d/10Q0s6bHP4bhzxurlgrT1XKQ9hzCpPylw/view?usp=sharing)
 ```yaml
@@ -50,5 +52,12 @@ chmod +x ./human-few-shot-k-inference.sh
 ## 4. Citation
 If you find our paper and code useful, please kindly cite our paper:
 ```yaml
-bibtex citation
+@inproceedings{su2021fewshot,
+    title={Few-Shot Table-to-Text Generation with Prototype Memory}, 
+     author={Yixuan Su and Zaiqiao Meng and Simon Baker and Nigel Collier},
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+}
 ```
