@@ -1,5 +1,5 @@
 # Few-Shot Table-to-Text Generation with Prototype Memory
-This repo contains the related resource to our paper [Few-Shot Table-to-Text Generation with Prototype Memory]
+This repo contains the related resource to our paper [Few-Shot Table-to-Text Generation with Prototype Memory](https://arxiv.org/abs/2108.12516)
 
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
 
