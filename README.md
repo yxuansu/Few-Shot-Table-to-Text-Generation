@@ -1,7 +1,7 @@
 # Few-Shot Table-to-Text Generation with Prototype Memory
-This repo contains the related resource to our paper [Few-Shot Table-to-Text Generation with Prototype Memory](https://arxiv.org/abs/2108.12516)
-
 Authors: Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier
+
+Code for EMNLP 2021 paper [Few-Shot Table-to-Text Generation with Prototype Memory](https://arxiv.org/abs/2108.12516)
 
 ## 1. Download Data and Pre-trained Models:
 ### (1) Download Data [link](https://drive.google.com/file/d/10Q0s6bHP4bhzxurlgrT1XKQ9hzCpPylw/view?usp=sharing)
