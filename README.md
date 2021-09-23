@@ -51,16 +51,6 @@ chmod +x ./human-few-shot-k-inference.sh
 
 ## 4. Citation
 If you find our paper and code useful, please kindly cite our paper:
-```yaml
-@inproceedings{su2021fewshot,
-    title={Few-Shot Table-to-Text Generation with Prototype Memory}, 
-     author={Yixuan Su and Zaiqiao Meng and Simon Baker and Nigel Collier},
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
-    month = nov,
-    year = "2021",
-    publisher = "Association for Computational Linguistics",
-}
-```
 
     @inproceedings{su2021fewshot,
         title={Few-Shot Table-to-Text Generation with Prototype Memory}, 
