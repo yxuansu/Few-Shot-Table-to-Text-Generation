@@ -52,11 +52,21 @@ chmod +x ./human-few-shot-k-inference.sh
 ## 4. Citation
 If you find our paper and code useful, please kindly cite our paper:
 
-    @inproceedings{su2021fewshot,
-        title={Few-Shot Table-to-Text Generation with Prototype Memory}, 
-         author={Yixuan Su and Zaiqiao Meng and Simon Baker and Nigel Collier},
-        booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
-        month = nov,
-        year = "2021",
-        publisher = "Association for Computational Linguistics",
-    }
+```bibtex
+@inproceedings{su-etal-2021-shot-table,
+    title = "Few-Shot Table-to-Text Generation with Prototype Memory",
+    author = "Su, Yixuan  and
+      Meng, Zaiqiao  and
+      Baker, Simon  and
+      Collier, Nigel",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.77",
+    pages = "910--917",
+    abstract = "Neural table-to-text generation models have achieved remarkable progress on an array of tasks. However, due to the data-hungry nature of neural models, their performances strongly rely on large-scale training examples, limiting their applicability in real-world applications. To address this, we propose a new framework: Prototype-to-Generate (P2G), for table-to-text generation under the few-shot scenario. The proposed framework utilizes the retrieved prototypes, which are jointly selected by an IR system and a novel prototype selector to help the model bridging the structural gap between tables and texts. Experimental results on three benchmark datasets with three state-of-the-art models demonstrate that the proposed framework significantly improves the model performance across various evaluation metrics.",
+}
+```
+
